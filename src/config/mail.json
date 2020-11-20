@@ -1,7 +1,7 @@
 {
     "host":"smtp.mailtrap.io",
-    "post":"2525",
-    "user":"ae226a7f754dd3",
-    "pass":"60f745613e0d77"
+    "port":"2525",
+    "user":"343e33bb9b8367",
+    "pass":"68b7216df65fd8"
 }
 
